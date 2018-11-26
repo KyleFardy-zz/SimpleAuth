@@ -1,4 +1,4 @@
-# SimpleAuth <a href="https://inception.menu/Discord/"><img src="https://discordapp.com/api/guilds/407992826740211715/embed.png?style=shield"></a>
+# SimpleAuth<a href="https://inception.menu/Discord/"><img src="https://discordapp.com/api/guilds/407992826740211715/embed.png?style=shield"></a>
 A Simple C# Authentication System
 
 For This You Will Need 
